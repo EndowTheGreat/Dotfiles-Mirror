@@ -1,0 +1,3 @@
+#!/bin/zsh
+pkill dunst
+dunst -config ~/.config/dunst/dunstrc &

@@ -1,0 +1,12 @@
+[general]
+framerate = 165
+bar_width = 1
+bar_spacing = 1
+autosens = 1
+
+[input]
+method = pulse
+source = music.monitor
+
+[color]
+foreground = "#83a598"
